@@ -1,0 +1,110 @@
+<!DOCTYPEhtml>
+
+ <html lang="fr"> 
+
+<tête>    
+
+<méta charset="UTF-8">  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+
+ <title>Le festin royal</title> </head>
+
+ <corps>   
+
+ <h1>Le festin royal</h1>
+
+    <h2>entrées</h2>  
+
+  <ul>     
+
+   <li>          
+
+  <strong>Pâté de campagne</strong>       
+
+     <p>Une recette traditionnelle pour faire de bonnes tartines en entrée.</p> 
+
+       </li>    
+       <li>          
+
+        <strong>Oeufs mimosa</strong>       
+      
+           <p>Un incontournable des repas.</p> 
+      
+             </li>   
+             <li>          
+
+                <strong>Salade de chèvre chaud aux noix</strong>       
+              
+                   <p>Une délicieuse salade à déguster en toutes circonstances.</p> 
+              
+                     </li>   
+    <!-- Ajouter deux autres entrées avec descriptions --> 
+
+   </ul>  
+
+  <h2>Plats principaux</h2> 
+
+   <ul>   
+
+     <li>      
+
+      <strong>Choucroute</strong>     
+
+       <p>La choucroute nous régale en toute saison.</p>   
+
+     </li>     
+     <li>      
+
+        <strong>Bouillabaisse facile</strong>     
+  
+         <p>Laissez-vous porter par les saveurs marines de la bouillabaisse.</p>   
+  
+       </li> 
+       <li>      
+
+        <strong>Tartare de boeuf facile</strong>     
+  
+         <p>Un délicieux tartare à déguster au soleil.</p>   
+  
+       </li> 
+
+   <!-- Ajouter deux autres éléments du plat principal avec des descriptions --> 
+
+   </ul>   
+
+ <h2>Desserts</h2>  
+
+  <ul>     
+
+   <li>    
+
+        <strong>Eclairs au chocolat</strong>     
+
+       <p>Une recette facile pour réaliser ses propres éclairs au chocolat.</p>    
+
+    </li>  
+    <li>    
+
+        <strong>Baba au rhum</strong>     
+
+       <p>Laissez-vous tenter par ces petites douceurs.</p>    
+
+    </li> 
+    <li>    
+
+        <strong>Crème brûlée à la vanille</strong>     
+
+       <p>Un dessert de notre enfance.</p>    
+
+    </li>   
+
+    <!-- Ajouter deux autres desserts avec descriptions -->  
+
+  </ul> 
+
+   <p><a href="contact.html">Appuyez ici pour nous contacter</a></p> 
+
+</corps>
+
+ </html>
